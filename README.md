@@ -23,4 +23,4 @@ No external packages are required!
 1. Make sure you have Python 3 installed.
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/kruxe/your-repo-name.git
+   git clone https://github.com/kruxe-Sx0d/Base64-GUI-encoder-decoder.git
